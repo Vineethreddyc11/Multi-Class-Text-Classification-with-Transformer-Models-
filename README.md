@@ -56,13 +56,13 @@ tensorflow, sklearn
 performance.
 - 7. Understand the Autoregressive and Autoencoder models
 - 8. XLNet model
- Load the required libraries
- Create an XLNet model instance
- Split the train and validation data
- Perform Data Pre-processing
- Compile XLNet in a K-train learner object
- Find optimal learning rate
- Fine-tune the XLNet model on the dataset
- Check for performance metrics
- Save the XLNet model
- Use the XLNet model on the test data and check for the performance
+     - Load the required libraries
+     - Create an XLNet model instance
+     - Split the train and validation data
+     - Perform Data Pre-processing
+     - Compile XLNet in a K-train learner object
+     - Find optimal learning rate
+     - Fine-tune the XLNet model on the dataset
+     - Check for performance metrics
+     - Save the XLNet model
+     - Use the XLNet model on the test data and check for the performance
