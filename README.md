@@ -30,6 +30,7 @@ classification on the human emotion dataset.
 Tech stack
 
 **Language** - Python
+
 **Libraries** - datasets, numpy, pandas, matplotlib, seaborn, ktrain, transformers,
 tensorflow, sklearn
 
